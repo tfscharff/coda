@@ -1,0 +1,33 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Dependencies / build output
+node_modules/
+dist/
+build/
+.venv/
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Large audio renders (keep small test fixtures under tests/fixtures/)
+*.wav
+*.aif
+*.aiff
+*.flac
+!tests/fixtures/**
+
+# Claude Code local settings
+.claude/settings.local.json

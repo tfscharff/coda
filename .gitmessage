@@ -1,0 +1,8 @@
+# <type>(<optional scope>): <imperative summary, max 72 chars>
+#
+# Types: feat fix docs chore refactor test ci style perf
+# Breaking: add "!" after type, or a "BREAKING CHANGE:" footer
+#
+# Body: what and why (optional)
+#
+# Refs #<issue>

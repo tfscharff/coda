@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.mid binary
+*.midi binary
+*.wav binary
+*.mp3 binary
+*.flac binary
+*.pdf binary
+*.png binary
