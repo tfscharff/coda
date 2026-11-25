@@ -22,3 +22,4 @@ Commits use [Conventional Commits](https://www.conventionalcommits.org/):
 ## License
 
 [MIT](LICENSE)
+
